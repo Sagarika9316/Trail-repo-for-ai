@@ -14,8 +14,8 @@ from sklearn.neighbors import NearestNeighbors
 # Define URLs for the model file and API keys
 model_url = 'https://raw.githubusercontent.com/Sagarika9316/Trail-repo-for-ai/main/InceptionV3_final_model.h5'
 model_save_path = 'InceptionV3_final_model.h5'
-YOUTUBE_API_KEY = "YOUR_YOUTUBE_API_KEY"  # Replace with your actual YouTube API key
-GOOGLE_MAPS_API_KEY = "YOUR_GOOGLE_MAPS_API_KEY"  # Replace with your actual Google Maps API key
+YOUTUBE_API_KEY = "AIzaSyDbfQJhOMRZ8mmJ_p1Ow7c5PUXM6UdmEg8"  # Replace with your actual YouTube API key
+GOOGLE_MAPS_API_KEY = "AIzaSyDJTNh13iW64f4RPtgik959ovjjTBB3PJ4"  # Replace with your actual Google Maps API key
 
 # Download the model from GitHub if it doesn't exist locally
 if not os.path.exists(model_save_path):
