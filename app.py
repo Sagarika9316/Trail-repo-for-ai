@@ -8,12 +8,21 @@ import streamlit as st
 import pandas as pd
 from sklearn.neighbors import NearestNeighbors
 
-# Hardcoded API keys (not recommended for production or public code)
+# API keys for YouTube and Google Maps (for demo purposes only; replace with your actual keys)
 YOUTUBE_API_KEY = "AIzaSyDbfQJhOMRZ8mmJ_p1Ow7c5PUXM6UdmEg8"
 GOOGLE_MAPS_API_KEY = "AIzaSyDJTNh13iW64f4RPtgik959ovjjTBB3PJ4"
 
+# Define the raw URL to the model file in your GitHub repository
+model_url = 'https://raw.githubusercontent.com/Sagarika9316/Trail-repo-for-ai/main/InceptionV3_final_model.h5'
+model_save_path = 'InceptionV3_final_model.h5'
+
+# Download the model from GitHub if it doesn't exist locally
+if not os.path.exists(model_save_path):
+    response = requests.get(model_url)
+    with open(model_save_path, 'wb') as file:
+        file.write(response.content)
+
 # Load the model
-model_save_path = '/path/to/your/InceptionV3_final_model.h5'  # Change this to your model path
 model = tf.keras.models.load_model(model_save_path)
 
 # Define the target image size
