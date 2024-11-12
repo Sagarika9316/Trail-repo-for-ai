@@ -1,0 +1,59 @@
+name,address,phone,category,latitude,longitude,open_hours
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Organic Waste,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Textiles,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Cardboard,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Glass,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Paper,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Quarantine Road Landfill,6100 Quarantine Road,410-396-3772,Plastic,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Organic Waste,39.246708,-76.6174453,Normal Hours
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Textiles,39.246708,-76.6174453,Normal Hours
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Cardboard,39.246708,-76.6174453,Normal Hours
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Glass,39.246708,-76.6174453,Normal Hours
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Paper,39.246708,-76.6174453,Normal Hours
+Western Sanitation Yard,701 Reedbird Ave,410-396-3367,Plastic,39.246708,-76.6174453,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Organic Waste,39.31424,-76.54496,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Textiles,39.31424,-76.54496,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Cardboard,39.31424,-76.54496,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Glass,39.31424,-76.54496,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Paper,39.31424,-76.54496,Normal Hours
+Eastern Sanitation Yard,6101 Bowley's Lane,410-396-9950,Plastic,39.31424,-76.54496,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Organic Waste,39.3201342,-76.6262093,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Textiles,39.3201342,-76.6262093,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Cardboard,39.3201342,-76.6262093,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Glass,39.3201342,-76.6262093,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Paper,39.3201342,-76.6262093,Normal Hours
+Sisson Street Drop-Off Center,2840 Sisson Street,410-396-7250,Plastic,39.3201342,-76.6262093,Normal Hours
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Organic Waste,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Textiles,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Cardboard,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Glass,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Paper,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+Northwest Transfer Station,5030 Reisterstown Road,410-396-2706,Plastic,39.34137630000001,-76.68000909999999,Mon-Sat 7:00 am - 5:00 pm
+York Road Substation,4325 York Road,410-396-6551,Plastic,39.34197109999999,-76.6083713,Mon-Sat 9:00 am - 7:00 pm
+York Road Substation,4325 York Road,410-396-6551,recyclable items,39.34197109999999,-76.6083713,Mon-Sat 9:00 am - 7:00 pm
+Calverton Road Substation,239 N. Calverton Road,410-396-0228,Plastic,39.2925855,-76.65930879999999,Mon-Sat 9:00 am - 7:00 pm
+Calverton Road Substation,239 N. Calverton Road,410-396-0228,recyclable items,39.2925855,-76.65930879999999,Mon-Sat 9:00 am - 7:00 pm
+Lewin Substation,4410 Lewin Avenue,410-396-0210,Plastic,39.3395312,-76.6790092,Mon-Sat 9:00 am - 7:00 pm
+Lewin Substation,4410 Lewin Avenue,410-396-0210,recyclable items,39.3395312,-76.6790092,Mon-Sat 9:00 am - 7:00 pm
+Precinct 1 Wilkens,"901 Walker Avenue, 21228",,Medical,39.2598589,-76.71631219999999,24/7
+Precinct 2 Woodlawn,"6424 Windsor Mill Road, 21207",,Medical,39.32310409999999,-76.7274285,24/7
+Precinct 3 Franklin,"606 Nicodemus Road, 21136",,Medical,39.4439767,-76.82753029999999,24/7
+Precinct 4 Pikesville,"215 Milford Mill Road, 21208",,Medical,39.3665354,-76.7194115,24/7
+Precinct 6 Towson,"115 West Susquehanna Avenue, 21204",,Medical,39.3986035,-76.607027,24/7
+Precinct 7 Cockeysville,"111 Wight Avenue, 21030",,Medical,39.4877305,-76.6545873,24/7
+Precinct 8 Parkville,"8532 Old Harford Road, 21234",,Medical,39.3899064,-76.5442568,24/7
+Precinct 9 White Marsh,"8220 Perry Hall Boulevard, 21236",,Medical,39.3758947,-76.4730897,24/7
+Precinct 11 Essex,"216 North Marlyn Avenue, 21221",,Medical,39.3165377,-76.4671136,24/7
+Precinct 12 Dundalk,"428 Westham Way, 21224",,Medical,39.2910685,-76.525024,24/7
+King Mulch And Pallet,"1114 Hengemihle Ave, Essex, MD 21221",,Wood,39.3254489,-76.47554149999999,Normal Hours
+Wirtz & Daughters Inc.,"6275 Days Cove Rd, White Marsh, MD 21162",,Wood,39.39596969999999,-76.389129,Normal Hours
+Hollins Organic Products Inc.,"6247 Falls Rd, Baltimore, MD 21209",,Wood,39.3849037,-76.6568116,Normal Hours
+Edrich Lumber Inc.,"9700 Old Court Rd, Windsor Mill, MD 21244",,Wood,39.3467079,-76.82101759999999,Normal Hours
+Northwest Recycling LLC,"212 Cockeys Mill Rd, Reisterstown, MD 21136",,Wood,39.4672308,-76.838937,Normal Hours
+Quarantine Rd Sanitary Landfill,6100 Quarantine Road,410-396-3772,E-waste,39.2090513,-76.5618277,Mon-Sat 9:00 am - 3:30 pm
+NW Citizens Convenience Center,2840 Sisson Street,410-396-7250,E-waste,39.3201342,-76.6262093,Mon-Sat 9:00 am - 7:00 pm
+Rosedale (Golden Ring),"8920 Yellow Brick Rd, Rosedale, MD 21237",410-780-3060,Metal,39.3415613,-76.4785807,Normal Hours
+Glen Burnie,"200 8th Ave NW, Glen Burnie, MD 21061",410-760-9088,Metal,39.1747025,-76.6284871,Normal Hours
+Elkridge,"5618 Furnace Ave, Elkridge, MD 21075",410-796-0760,Metal,39.216057,-76.7080228,Normal Hours
+Forest Hill,"343 Granary Rd, Forest Hill, MD 21050",410-836-0070,Metal,39.567293,-76.360721,Normal Hours
+Baltimore (Commercial Only),"7921 Philadelphia Rd, Baltimore, MD 21237",410-866-4000,Metal,39.3194231,-76.51516769999999,Normal Hours
