@@ -30,13 +30,18 @@ IMG_SIZE = (299, 299)
 
 # Function to preprocess the uploaded image
 def preprocess_image(uploaded_image):
+    # Ensure the image is resized to match the input size of the model
     img = uploaded_image.resize(IMG_SIZE)
-    img = image.img_to_array(img) / 255.0
-    img = np.expand_dims(img, axis=0)
+    img = image.img_to_array(img) / 255.0  # Normalize the image to [0, 1] range
+    img = np.expand_dims(img, axis=0)  # Add batch dimension to the image
     return img
 
 # Predict the category of the uploaded image
 def predict_image_category(model, img):
+    # Check the input shape before prediction
+    if img.shape != (1, 299, 299, 3):  # (batch_size, height, width, channels)
+        raise ValueError(f"Expected input shape (1, 299, 299, 3), but got {img.shape}")
+    
     predictions = model.predict(img)
     predicted_class = np.argmax(predictions, axis=1)[0]
     return predicted_class
